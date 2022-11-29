@@ -1,0 +1,14 @@
+,walmart,tysonfoods,costco,kroger,nestle,pepsico,kelloggcompany,google,ebay,intuit,intel,paypal,oracle
+walmart,0,1,0,0,0,0,0,0,0,0,0,0,0
+tysonfoods,1,0,0,1,0,0,1,0,0,0,0,0,0
+costco,0,0,0,0,0,0,0,0,0,0,0,0,0
+kroger,0,1,0,0,0,0,0,0,0,0,0,0,0
+nestle,0,1,0,1,0,0,1,0,0,0,0,0,0
+pepsico,1,1,0,0,0,0,0,0,0,0,0,0,0
+kelloggcompany,0,1,0,0,0,0,0,0,0,0,0,0,0
+google,0,1,0,0,1,1,0,0,1,0,1,0,0
+ebay,0,0,0,0,0,0,0,0,0,0,0,1,0
+intuit,0,0,0,0,0,0,0,0,0,0,0,0,0
+intel,0,0,0,0,0,1,0,0,0,1,0,0,1
+paypal,0,0,0,0,0,0,0,0,1,0,0,0,0
+oracle,0,0,0,0,0,0,0,0,0,0,1,0,0
