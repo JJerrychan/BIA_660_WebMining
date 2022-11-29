@@ -1,6 +1,5 @@
-API Key = wkgxq9I9ixUXd0lhOaEqOWdXq
-API Key Secret = BsguyN5f1RY3eqJH5Jb3dtgoGRDni4cJ5BO26V6iI3dlPcoFXj
-Bearer Token = AAAAAAAAAAAAAAAAAAAAAB4WhQEAAAAAKJFCMimkhv%2Fx578SkDM5IY%2BZULw%3D0Jpc3RdsysFcmXtjWrnsAkOOKKaaZ45fYUAawd10yHuwGWJVBB
-
-Access Token = 1572007702737424389-mBDazpwiGLFuY3hew7qeFoIqrpYODF
-Access Token Secret  = NBdgaTq7BzvmXfX6VPCwU3bOttSQVrAbvjyd52OKtvyNL
+API Key = 
+API Key Secret = 
+Bearer Token = 
+Access Token = 
+Access Token Secret  = 
